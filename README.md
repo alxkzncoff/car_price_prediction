@@ -73,3 +73,5 @@
 - [submission_stack_v1.csv](https://drive.google.com/file/d/1lZyVqpOKWP8Lpbf9n4ele54E8Qi5Jfhh/view?usp=sharing)
 
 ### Stacking
+
+Будет чуть позже :)
